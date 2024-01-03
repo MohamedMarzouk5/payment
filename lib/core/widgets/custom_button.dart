@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:payment/core/utils/styles.dart';
 
 class CustomButton extends StatelessWidget {
   const CustomButton({
@@ -32,7 +31,7 @@ class CustomButton extends StatelessWidget {
               : Text(
                   text,
                   textAlign: TextAlign.center,
-                  style: Styles.style22,
+                  // style: Styles.style22,
                 ),
         ),
       ),
