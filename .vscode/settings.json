@@ -1,0 +1,16 @@
+{
+    "workbench.settings.editor": "json",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "editor.rulers": [],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#e6dddd"
+    },
+    "[dart]" : {
+
+        "editor.rulers": [120]
+        },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+
+}
